@@ -1,7 +1,7 @@
-# Mini Projeto de Análise de Dados
+# Mini Projeto de Análise de Dados 📊
 
 **Descrição:**  
-Mini Projeto de Análise de Dados para um conjunto de dados sobre desempenho acadêmico de estudantes.
+Mini Projeto de Análise de Dados sobre o desempenho acadêmico de estudantes, desenvolvido pelo Grupo 11 do curso de Engenharia de Dados do Programa Desenvolve | Grupo Boticário.
 
 ## Contexto
 
@@ -57,3 +57,6 @@ https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset
 - Seaborn
 
 ## Autores
+<a href="https://github.com/sarahscampos/mini-projeto-ad/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sarahscampos/mini-projeto-ad" />
+</a>
