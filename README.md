@@ -50,11 +50,15 @@ https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset
 
 ## Requisitos
 
-- Python 3.x
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+ 
+ -Seaborn
 
 ## Autores
 <a href="https://github.com/sarahscampos/mini-projeto-ad/graphs/contributors">
