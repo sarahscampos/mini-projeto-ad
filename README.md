@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset
 - **GPA**: Média de notas (escala 2,0-4,0)
 - **Nota**: Quanto menor, melhor a nota
 
-## O que o projeto faz
+## O que o projeto faz 🎯
 
 - Carrega e trata o dataset, renomeando colunas para o português.
 - Realiza análises estatísticas e explora relações entre variáveis como gênero, etnia, apoio parental, atividades extracurriculares, ausências e desempenho acadêmico.
