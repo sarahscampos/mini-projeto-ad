@@ -1,17 +1,12 @@
 # Mini Projeto de Análise de Dados 📊
-
-**Descrição:**  
 Mini Projeto de Análise de Dados sobre o desempenho acadêmico de estudantes, desenvolvido pelo Grupo 11 do curso de Engenharia de Dados do Programa Desenvolve | Grupo Boticário.
 
 ## Contexto
-
 Este projeto tem como objetivo analisar um conjunto de dados contendo informações sobre estudantes do ensino médio, buscando identificar padrões e relações entre variáveis que influenciam o desempenho acadêmico (GPA e Nota).
 
-O dataset utilizado está disponível em:  
-https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset
+O dataset utilizado está disponível no [kaggle](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset).
 
 ## Colunas do Dataset (renomeadas)
-
 - **EstudanteID**: Identificador único do estudante
 - **Idade**: 15-18 anos
 - **Gênero**: 0 = masculino, 1 = feminino
@@ -28,21 +23,18 @@ https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset
 - **GPA**: Média de notas (escala 2,0-4,0)
 - **Nota**: Quanto menor, melhor a nota
 
-## O que o projeto faz 🎯
-
+## O que o projeto faz?
 - Carrega e trata o dataset, renomeando colunas para o português.
 - Realiza análises estatísticas e explora relações entre variáveis como gênero, etnia, apoio parental, atividades extracurriculares, ausências e desempenho acadêmico.
 - Gera visualizações (gráficos de barras, linhas e dispersão) para facilitar a interpretação dos dados.
 - Apresenta conclusões e recomendações baseadas nos resultados das análises.
 
-## Como executar
-
+## Como executar?
 1. Abra o notebook [mini_projeto.ipynb](mini_projeto.ipynb) no Google Colab ou Jupyter Notebook.
 2. Certifique-se de ter o dataset disponível no caminho especificado no notebook.
 3. Execute as células sequencialmente para reproduzir as análises e visualizações.
 
 ## Principais conclusões
-
 - O apoio parental tem maior influência no GPA do que o nível de escolaridade dos pais.
 - A participação em atividades extracurriculares está associada a um GPA médio mais alto.
 - Existe uma correlação negativa moderada entre o número de ausências e o GPA.
@@ -51,14 +43,10 @@ https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset
 ## Requisitos
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
- 
- -Seaborn
+![Seaborn](https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=for-the-badge&logo=Seaborn&logoColor=black)
 
 ## Autores
 <a href="https://github.com/sarahscampos/mini-projeto-ad/graphs/contributors">
